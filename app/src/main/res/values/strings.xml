@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Nine Patch</string>
+    <string name="info_tv_nine_patch">
+        Antes de la aparición de los celulares inteligentes y de las grandes mejoras tecnológicas que
+        trajeron con ellas, las aplicaciones para celular eran simples en cuanto a su interfaz se refiere.
+        Ahora tenemos android que simplifica en gran manera el desarrollo de interfaces bastante agradables a
+        la vista del usuario con sus muchas utilidades y herramientas con las que cuenta su SDK, una de ellas
+        es NINEPATCH o 9-Patch.\n\n
+
+       <b>¿Qué es eso del 9-patch?</b>\n\n
+
+       Es un sistema que utiliza Android para hacer el reescalado selectivo de las imágenes mediante la adición
+        de unos marcadores en la propia imagen. Se trata de marcar con unas barras solamente las zonas de la imagen
+        que el sistema redimensionará para que, de esta manera, la imagen se adapte a las medidas deseadas sin provocar
+        distorsiones. \n\n
+
+         <b>¿Como creamos estas imágenes?</b>\n\n
+
+       Pues para ello, Google nos proporciona una herramienta dentro del SDK de Android "draw9patch",
+        el cual podremos encontrar en la siguiente ruta "sdk/tools/draw9patch" en este caso:\n\n
+        (<i>C:\\Users\\CursoDevelop\\AppData\\Local\\Android\\sdk\\tools\\draw9patch.bat</i>). \n\n
+
+    </string>
+</resources>
